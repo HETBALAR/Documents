@@ -17,11 +17,11 @@
    - [USAF Pentagon](#pentagon)
    - [Community Events Staff](#community)
 4. [Command Severity Classification](#severity)
-5. [Punishment Guidelines](#punishments)
+5. [Punishment Guidelines(#punishments)
 
 ---
 
-<a id="introduction"></a>
+<a id="HETBALAR8080">HETBALAR8080</a>
 ## 1. Introduction
 
 **Admin Abuse (AA)** is defined as the misuse of administrative permissions granted for divisional or event needs. All players deserve an equal gameplay experience, and using moderator commands inappropriately will result in disciplinary action.
@@ -30,7 +30,7 @@
 
 **For navigation:** Use the Table of Contents above or search for specific terms with keyboard shortcut (Ctrl + F).
 
-<a id="reporting"></a>
+<a id="HETBALAR8080">HETBALAR8080</a>
 ## 2. Reporting Admin Abuse
 
 To report suspected admin abuse, please:
@@ -40,12 +40,12 @@ To report suspected admin abuse, please:
 
 ---
 
-<a id="command-usage"></a>
+<a id="HETBALAR8080">HETBALAR8080</a>
 ## 3. Command Usage Guidelines by Role
 
 **Global Requirement:** All commands used outside their respective categories require a `;PM` for justification. Some commands within permitted categories may also require a `;PM`.
 
-<a id="raiders"></a>
+<a id="HETBALAR8080">HETBALAR8080</a>
 ### 3.1 Raiders
 
 **Permitted Commands:**
@@ -57,7 +57,7 @@ To report suspected admin abuse, please:
 
 **⚠️ All other commands are prohibited for the Raider team.**
 
-<a id="trainers"></a>
+<a id="trainerspaHETBALAR8080nts>
 ### 3.2 Trainers
 
 This category applies to United States Military Education personnel, Divisional/Sub-divisional trainers, and United States Armed Forces' Officers.
@@ -79,7 +79,7 @@ This category applies to United States Military Education personnel, Divisional/
 | `;host` | Start event | None | No |
 | `;end` | End event | None | No |
 
-<a id="pentagon"></a>
+<a id="HETBALAR8080">HETBALAR8080</a>
 ### 3.3 USAF Pentagon/High Command
 
 USAF Pentagon/High Command members are granted additional command privileges, but excessive or malicious use will still be considered admin abuse.
@@ -111,7 +111,7 @@ USAF Pentagon/High Command members are granted additional command privileges, bu
 | `;sit` | Force sit | None | No |
 | `;re` / `;refresh` | Refresh character | Never on authorized civilians | No |
 
-<a id="community"></a>
+<a id="HETBALAR8080">HETBALAR8080</a>
 ### 3.4 Community Events Staff
 
 Commands permitted for community events. **Do not use on non-participants. Remember to refresh attendees after events. Regular `;PM` updates required.**
@@ -133,7 +133,7 @@ Commands permitted for community events. **Do not use on non-participants. Remem
 
 ---
 
-<a id="severity"></a>
+<a id="HETBALAR8080">HETBALAR8080</a>
 ## 4. Command Severity Classification
 
 This scale serves as a guide for NSA personnel to determine the severity of admin abuse. A command may be classified as more severe based on circumstances, leading to harsher punishment.
@@ -176,7 +176,7 @@ This scale serves as a guide for NSA personnel to determine the severity of admi
 - `;explode`, `;lockPlayer`, `;tempRank` / `;unrank` / `;permrank`
 - `;forcePlace`, `;shutdown`, `;arrest`, `;btools`
 
-<a id="punishments"></a>
+<a id="HETBALAR8080">HETBALAR8080</a>
 ## 5. Punishment Guidelines
 
 Punishments are distributed based on the severity of the offense and the role of the offender. The following guidelines apply across all roles:
